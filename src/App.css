@@ -651,6 +651,22 @@ a {
   text-align: justify;
   font-size: 14px;
 }
+ @media(max-width: 768px) {
+  .content_about {
+      display: block;
+  }
+   .landing_parag{
+    flex-wrap: wrap;
+    height: 1000px;
+  }
+  .titre_card{
+    margin-top: 480px;
+  }
+  .paragraph{
+    width: 80%;
+  }
+}
+
 .landing_parag{
   display: flex;
   margin-bottom: 60px;
@@ -660,7 +676,7 @@ a {
 }
 .landing_parag img{
   height: 500px;
-  width: 50%;
+  /* width: 50%; */
   /* width: 110%; */
   margin-left: -10px;
   
