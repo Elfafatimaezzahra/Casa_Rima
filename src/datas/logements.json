@@ -47,6 +47,7 @@
 			"name": "Della Case",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-1.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "4",
 		"location": "Ile de France - Paris 10e",
 		"equipments": [
@@ -78,6 +79,7 @@
 			"name": "Franck Maher",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-2.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "3",
 		"location": "Ile de France - Paris 20e",
 		"equipments": [
@@ -107,6 +109,7 @@
 			"name": "Della Case",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-1.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "3",
 		"location": "Ile de France - Paris 11e",
 		"equipments": [
@@ -140,6 +143,7 @@
 			"name": "Franck Maher",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-2.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "5",
 		"location": "Ile de France - Paris 10e",
 		"equipments": [
@@ -170,6 +174,7 @@
 			"name": "Line Rolland",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-3.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "5",
 		"location": "Ile de France - Paris 18e",
 		"equipments": [
@@ -197,6 +202,7 @@
 			"name": "Hugo Perrier",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-4.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "3",
 		"location": "Ile de France - Paris 18e",
 		"equipments": [
@@ -230,6 +236,7 @@
 			"name": "Sébastien Fournier",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-5.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "5",
 		"location": "Ile de France - Paris 6e",
 		"equipments": [
@@ -263,6 +270,7 @@
 			"name": "Adrien Chiran",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-6.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "4",
 		"location": "Ile de France - Paris 14e",
 		"equipments": [
@@ -293,6 +301,7 @@
 			"name": "Adrien Chiran",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-6.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "3",
 		"location": "Ile de France - Paris 11e",
 		"equipments": [
@@ -325,6 +334,7 @@
 			"name": "Victor Moran",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-7.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "4",
 		"location": "Ile de France - Paris 11e",
 		"equipments": [
@@ -354,6 +364,7 @@
 			"name": "Sarah Devit",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-8.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "3",
 		"location": "Ile de France - Paris 3e",
 		"equipments": [
@@ -388,6 +399,7 @@
 			"name": "Sarah Devit",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-8.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "5",
 		"location": "Ile de France - Ecouen",
 		"equipments": [
@@ -419,6 +431,7 @@
 			"name": "Karen Guillet",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-9.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "4",
 		"location": "Ile de France - Arnouville",
 		"equipments": [
@@ -453,6 +466,7 @@
 			"name": "Karen Guillet",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-9.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "3",
 		"location": "Ile de France - Arnouville",
 		"equipments": [
@@ -489,6 +503,7 @@
 			"name": "Julie Donatella",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-10.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "3",
 		"location": "Ile de France - La Défense",
 		"equipments": [
@@ -522,6 +537,7 @@
 			"name": "Julie Donatella",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-10.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "4",
 		"location": "Ile de France - Levallois",
 		"equipments": [
@@ -549,6 +565,7 @@
 			"name": "Hugo Perrier",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-4.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "2",
 		"location": "Ile de France - Paris 20e",
 		"equipments": [
@@ -575,6 +592,7 @@
 			"name": "Michel Romy",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-11.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "4",
 		"location": "Ile de France - Paris 13e",
 		"equipments": [
@@ -602,6 +620,7 @@
 			"name": "Nathalie Jean",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-12.jpg"
 		},
+		"contact": "+212 666666666",
 		"rating": "4",
 		"location": "Ile de France - Paris 13e",
 		"equipments": [
