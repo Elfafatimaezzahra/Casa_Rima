@@ -715,6 +715,10 @@ a {
 .titre_card{
   text-align: center;
 }
-
+.search{
+  margin-left: 35px;
+  height: 30px;
+  width: 94%;
+}
 
 
