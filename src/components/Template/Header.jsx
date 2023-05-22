@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom'
+import { NavLink, Link } from 'react-router-dom'
 import logo from '../../img/logo-casa.png'
 
 function Header() {
@@ -36,6 +36,9 @@ function Header() {
                         >
                             À propos
                         </NavLink>
+                    </li>
+                    <li className='header_nav_link Contact_hov'>
+                        <a  className={({ isActive }) => (isActive ? 'header_nav_link_navlink header_nav_link_active' : 'header_nav_link_navlink header_nav_link_inactive')}  href="/#myForm">Contact</a>
                     </li>
                 </ul>
             </nav>

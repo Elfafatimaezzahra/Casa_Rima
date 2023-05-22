@@ -676,7 +676,7 @@ a {
 }
 .landing_parag img{
   height: 500px;
-  /* width: 50%; */
+  width: 50%;
   /* width: 110%; */
   margin-left: -10px;
   
@@ -717,8 +717,64 @@ a {
 }
 .search{
   margin-left: 35px;
-  height: 30px;
+  margin-top: 10px;
+  margin-bottom: -20px;
+  height: 35px;
   width: 94%;
 }
-
+form{
+  margin-bottom: 150px;
+  margin-left: 30%;
+}
+.titre_contact{
+  text-align: center;
+  margin-top: -100px;
+  margin-bottom: 40px;
+}
+input{
+  width: 530px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: antiquewhite;
+  border: none;
+  margin-bottom: 20px;
+}
+/* .input p{
+  margin-bottom: 2px;
+  font-size: 14px;
+} */
+span{
+  color: rgb(246, 143, 9);
+}
+#message{
+  width: 530px;
+  height: 200px;
+  border-radius: 20px;
+  background-color: antiquewhite;
+  border: none;
+  margin-bottom: 20px;
+}
+.input a{
+  background-color: antiquewhite;
+  border-radius: 10px;
+  padding: 10px 200px;
+}
+/* .input a:hover{
+background-color: #FF6D60;
+color: antiquewhite;
+} */
+.Contact_hov:hover{
+  background-color: antiquewhite;
+  padding: 0px 15px;
+  border-radius: 5px;
+}
+#send{
+  cursor: pointer;
+  color: #537188;
+  font-size: 16px;
+}
+#send:hover{
+  background-color: #FF6D60;
+  color: antiquewhite;
+}
 

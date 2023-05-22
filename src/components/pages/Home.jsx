@@ -7,23 +7,26 @@ import offres from '../../datas/logements.json'
 
 
 function Home() {
+    const [data, setData] = useState(offres);
     const [query, setQuery] = useState("");
 
-    const keys =  ["title", "location", "tags"]
+    const searchList =  ["title"]
 
     // console.log(offres[1])
 
-    const search = (offres)=>{
-        return offres.filter((item) =>
-        keys.some((key) => item[key].toLowerCase().includes(query))
-        );
+    const search = ()=>{
+        return data.filter((item) =>
+        searchList.some((list) =>
+          item[list].toLowerCase().includes(query.toLowerCase())
+        )
+      );
     };
     return (
         <>
             <Header />
             <HomeBanner />
-            <input type="text" placeholder="Search..." className="search" onChange={(e) => setQuery(e.target.value)}/>
-            <ShowCards offres={search(offres)} />
+            <input type="text" placeholder="Search by title" className="search" onChange={(e) => setQuery(e.target.value)}/>
+            <ShowCards data={search()} />
             <Footer />
         </>
     )
