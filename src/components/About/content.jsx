@@ -23,7 +23,7 @@ function AboutContent() {
             <div className="about_collapses_content">
                 <Collapse
                     title='Fiabilité'
-                    content='Les annonces postées sur CASA RIMASS garantissent une fiabilité totale. 
+                    content='Les annonces postées sur CASA RIMA garantissent une fiabilité totale. 
                     Les photos sont conformes aux logements, et toutes les informations 
                     sont régulièrement vérifiées par nos équipes.'
                 />
@@ -31,7 +31,7 @@ function AboutContent() {
             <div className="about_collapses_content">
                 <Collapse
                     title='Respect'
-                    content='La bienveillance fait partie des valeurs fondatrices de CASA RIMASS. 
+                    content='La bienveillance fait partie des valeurs fondatrices de CASA RIMA. 
                     Tout comportement discriminatoire ou de perturbation du voisinage
                     entraînera une exclusion de note plateforme.'
                 />
@@ -47,7 +47,7 @@ function AboutContent() {
             <div className="about_collapses_content">
                 <Collapse
                     title='Sécurité'
-                    content="La sécurité est la priorité de CASA RIMASS. Aussi bien pour nos hôtes que 
+                    content="La sécurité est la priorité de CASA RIMA. Aussi bien pour nos hôtes que 
                     pour les voyageurs, chaque logement correspond aux critères de sécurité
                     établis par nos services. En laissant une note aussi bien à l'hôte qu'au
                     locataire, cela permet à nos équipes de vérifier que les standards sont 

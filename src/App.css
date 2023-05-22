@@ -665,6 +665,9 @@ a {
   .paragraph{
     width: 80%;
   }
+  .landing_parag img{
+    width: 100%;
+  }
 }
 
 .landing_parag{
@@ -677,7 +680,6 @@ a {
 .landing_parag img{
   height: 500px;
   width: 50%;
-  /* width: 110%; */
   margin-left: -10px;
   
 }

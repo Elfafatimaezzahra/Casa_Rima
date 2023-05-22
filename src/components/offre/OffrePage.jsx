@@ -19,9 +19,7 @@ function OffrePage() {
 
     return (
         <section key={offre.id} className='offre_page'>
-            <SLider
-                img={offre.pictures}
-            />
+          
             <header className='offre_page_header'>
                 <article className='offre_page_header_infos'>
                     <h1 className='offre_page_header_infos_title'>{offre.title}</h1>
@@ -64,6 +62,10 @@ function OffrePage() {
                     />
                 </div>
             </article>
+
+            <SLider
+                img={offre.pictures}
+            />
         </section>
     )
 }
